@@ -8,15 +8,16 @@
 - [ACL 2024](#ACL-2024)
 - [ICML 2024](#ICML-2024)
 - [ICLR 2024](#ICLR-2024)
-- [2024 August](#2024-August)
-- [2024 July](#2024-July)
-- [2024 June](#2024-June)
-- [2024 May](#2024-May)
-- [2024 April](#2024-Apri)
-- [2024 March](#2024-March)
-- [2024 February](#2024-February)
-- [2024 January](#2024-January)
-- [2023](#2023)
+- [2024 papers](#2024)
+- [2023 papers](#2023)
+
+<a name="2024"></a>
+|                                 |                                 |                                 |                                   |
+|---------------------------------|---------------------------------|---------------------------------|-----------------------------------|
+| [2024 December](#2024-December) | [2024 November](#2024-November) | [2024 October](#2024-October)   | [2024 September](#2024-September) |
+| [2024 August](#2024-August)     | [2024 July](#2024-July)         | [2024 June](#2024-June)         | [2024 May](#2024-May)             | 
+| [2024 April](#2024-Apri)        | [2024 March](#2024-March)       | [2024 February](#2024-February) | [2024 January](#2024-January)     |
+
 
 ## 🔥Latest News
 ### 🔥2024 December
