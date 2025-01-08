@@ -21,6 +21,7 @@
 ## 🔥Latest News
 ### 🔥2024 December
 - Dec 11 [DADIO: Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation](https://arxiv.org/pdf/2412.08519)
+- Dec 3 [RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models](https://arxiv.org/pdf/2412.02830)
  
 ### 🔥2024 November
 - Nov 1 [CORAG: A Cost-Constrained Retrieval Optimization System for Retrieval-Augmented Generation](https://arxiv.org/pdf/2411.00744)
