@@ -19,7 +19,13 @@
 - [2023](#2023)
 
 ## 🔥Latest News
-### 🔥2024 October
+### 🔥2024 December
+- Dec 11 [DADIO: Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation](https://arxiv.org/pdf/2412.08519)
+ 
+### 🔥2024 November
+- Nov 1 [CORAG: A Cost-Constrained Retrieval Optimization System for Retrieval-Augmented Generation](https://arxiv.org/pdf/2411.00744)
+
+### 🍭2024 October
 - Oct 12 [Toward General Instruction-Following Alignment for Retrieval-Augmented Generation](https://arxiv.org/pdf/2410.09584)
 - Oct 11 [STRUCTRAG: BOOSTING KNOWLEDGE INTENSIVE REASONING OF LLMS VIA INFERENCE-TIME HYBRID INFORMATION STRUCTURIZATION](https://arxiv.org/pdf/2410.08815)
 - Oct 11 [Retriever-and-Memory: Towards Adaptive Note-Enhanced Retrieval-Augmented Generation](https://arxiv.org/pdf/2410.08821)
