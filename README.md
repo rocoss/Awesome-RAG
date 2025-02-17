@@ -5,6 +5,8 @@
 
 
 ## 📕Overview
+- [ICLR 2025](#ICLR-2025)
+- [NIPS 2024](#NIPS-2024)
 - [ACL 2024](#ACL-2024)
 - [ICML 2024](#ICML-2024)
 - [ICLR 2024](#ICLR-2024)
@@ -18,13 +20,68 @@
 | [2024 August](#2024-August)     | [2024 July](#2024-July)         | [2024 June](#2024-June)         | [2024 May](#2024-May)             | 
 | [2024 April](#2024-Apri)        | [2024 March](#2024-March)       | [2024 February](#2024-February) | [2024 January](#2024-January)     |
 
-
 ## 🔥Latest News
 ### 🔥2024 December
+
+
+## 🥇ICLR 2025
+- [Inference Scaling for Long-Context Retrieval Augmented Generation](https://arxiv.org/pdf/2410.04343)
+- [Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse](https://arxiv.org/pdf/2409.11242)
+- [Sufficient Context: A New Lens on Retrieval Augmented Generation Systems](https://arxiv.org/pdf/2411.06037)
+- [Enhancing Large Language Models' Situated Faithfulness to External Contexts](https://arxiv.org/pdf/2410.14675)
+- [RAG-SR: Retrieval-Augmented Generation for Neural Symbolic Regression](https://openreview.net/pdf?id=NdHka08uWn)
+- [SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback](https://arxiv.org/pdf/2410.18141)
+- [InstructRAG: Instructing Retrieval-Augmented Generation via Self-Synthesized Rationales](https://arxiv.org/pdf/2406.13629)
+- [RAG-DDR: Optimizing Retrieval-Augmented Generation Using Differentiable Data Rewards](https://arxiv.org/pdf/2410.13509)
+- [TrojanRAG: Retrieval-Augmented Generation Can Be Backdoor Driver in Large Language Models](https://arxiv.org/pdf/2405.13401)
+- [Provence: efficient and robust context pruning for retrieval-augmented generation](https://arxiv.org/pdf/2501.16214)
+- [Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG](https://arxiv.org/pdf/2410.05983)
+- [LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](https://arxiv.org/pdf/2410.10813)
+- [MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models](https://arxiv.org/pdf/2410.13085v1)
+- [A Theory for Token-Level Harmonization in Retrieval-Augmented Generation](https://arxiv.org/pdf/2406.00944v2)
+- [SiReRAG: Indexing Similar and Related Information for Multihop Reasoning](https://arxiv.org/pdf/2412.06206)
+- [VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents](https://arxiv.org/pdf/2410.10594)
+- [ReDeEP: Detecting Hallucination in Retrieval-Augmented Generation via Mechanistic Interpretability](https://arxiv.org/pdf/2410.11414)
+- [ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG Capabilities](https://arxiv.org/pdf/2407.14482)
+- [Accelerating Inference of Retrieval-Augmented Generation via Sparse Context Selection](https://arxiv.org/pdf/2405.16178)
+- [Retrieval or Reasoning: The Roles of Graphs and Large Language Models in Efficient Knowledge-Graph-Based Retrieval-Augmented Generation](https://arxiv.org/pdf/2410.20724)
+- [Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation](https://arxiv.org/pdf/2407.10805)
+- [DRoC: Elevating Large Language Models for Complex Vehicle Routing via Decomposed Retrieval of Constraints](https://openreview.net/pdf?id=s9zoyICZ4k)
+- [RAPID: Retrieval Augmented Training of Differentially Private Diffusion Models](https://openreview.net/pdf?id=txZVQRc2ab)
+- [Auto-GDA: Automatic Domain Adaptation for Efficient Grounding Verification in Retrieval Augmented Generation](https://arxiv.org/pdf/2410.03461)
+- [Speculative RAG: Enhancing Retrieval Augmented Generation through Drafting](https://arxiv.org/pdf/2407.08223)
+- [Follow My Instruction and Spill the Beans: Scalable Data Extraction from Retrieval-Augmented Generation Systems](https://arxiv.org/pdf/2402.17840)
+- [Chunk-Distilled Language Modeling](https://arxiv.org/pdf/2501.00343)
+- [Benchmarking Multimodal Retrieval Augmented Generation with Dynamic VQA Dataset and Self-adaptive Planning Agent](https://arxiv.org/pdf/2411.02937)
+  
+## 🥇NIPS 2024
+- [RAGraph: A General Retrieval-Augmented Graph Learning Framework](https://arxiv.org/pdf/2410.23855)
+- [RAGChecker: A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation](https://arxiv.org/pdf/2408.08067)
+- [G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/abs/2402.07630)
+- [RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs](https://arxiv.org/pdf/2407.02485)
+- [ChatQA: Surpassing GPT-4 on Conversational QA and RAG](https://arxiv.org/pdf/2401.10225)
+- [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/pdf/2405.14831)
+- [BABILong: Testing the Limits of LLMs with Long Context Reasoning-in-a-Haystack](https://arxiv.org/pdf/2406.10149)
+- [Self-Retrieval: End-to-End Information Retrieval with One Large Language Model](https://arxiv.org/abs/2403.00801)
+- [UDA: A Benchmark Suite for Retrieval Augmented Generation in Real-World Document Analysis](https://arxiv.org/pdf/2406.15187)
+- [Ad Auctions for LLMs via Retrieval Augmented Generation](https://arxiv.org/pdf/2406.09459)
+- [ReFIR: Grounding Large Restoration Models with Retrieval Augmentation](https://arxiv.org/pdf/2410.05601)
+- [TableRAG: Million-Token Table Understanding with Language Models](https://arxiv.org/pdf/2410.04739)
+- [xRAG: Extreme Context Compression for Retrieval-augmented Generation with One Token](https://arxiv.org/pdf/2405.13792)
+- [Scaling Retrieval-Based Language Models with a Trillion-Token Datastore](https://arxiv.org/pdf/2407.12854)
+- [Fine-grained Analysis of In-context Linear Estimation: Data, Architecture, and Beyond](https://arxiv.org/pdf/2407.10005)
+- [Molecule Generation with Fragment Retrieval Augmentation](https://arxiv.org/pdf/2411.12078)
+- [WikiContradict: A Benchmark for Evaluating LLMs on Real-World Knowledge Conflicts from Wikipedia](https://arxiv.org/pdf/2406.13805)
+- [Beyond Prompts: Dynamic Conversational Benchmarking of Large Language Models](https://arxiv.org/pdf/2409.20222)
+- [ConflictBank: A Benchmark for Evaluating the Influence of Knowledge Conflicts in LLMs](https://arxiv.org/pdf/2408.12076)
+- [CRAG - Comprehensive RAG Benchmark](https://arxiv.org/pdf/2406.04744)
+
+## 🔥Latest News
+### 🍭2024 December
 - Dec 11 [DADIO: Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation](https://arxiv.org/pdf/2412.08519)
 - Dec 3 [RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models](https://arxiv.org/pdf/2412.02830)
  
-### 🔥2024 November
+### 🍭2024 November
 - Nov 1 [CORAG: A Cost-Constrained Retrieval Optimization System for Retrieval-Augmented Generation](https://arxiv.org/pdf/2411.00744)
 
 ### 🍭2024 October
