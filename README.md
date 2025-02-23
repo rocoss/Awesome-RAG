@@ -25,6 +25,7 @@
 
 
 ## 🥇ICLR 2025
+- [SePer: Measure Retrieval Utility Through The Lens Of Semantic Perplexity Reduction](https://openreview.net/pdf?id=ixMBnOhFGd)
 - [Inference Scaling for Long-Context Retrieval Augmented Generation](https://arxiv.org/pdf/2410.04343)
 - [Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse](https://arxiv.org/pdf/2409.11242)
 - [Sufficient Context: A New Lens on Retrieval Augmented Generation Systems](https://arxiv.org/pdf/2411.06037)
