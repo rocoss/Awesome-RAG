@@ -13,16 +13,16 @@
 - [2024 papers](#2024)
 - [2023 papers](#2023)
 
+
 <a name="2024"></a>
-|                                 |                                 |                                 |                                   |
-|---------------------------------|---------------------------------|---------------------------------|-----------------------------------|
-| [2024 December](#2024-December) | [2024 November](#2024-November) | [2024 October](#2024-October)   | [2024 September](#2024-September) |
-| [2024 August](#2024-August)     | [2024 July](#2024-July)         | [2024 June](#2024-June)         | [2024 May](#2024-May)             | 
-| [2024 April](#2024-Apri)        | [2024 March](#2024-March)       | [2024 February](#2024-February) | [2024 January](#2024-January)     |
+|                                 |                                 |                                 |                                   |                                   |                                   |
+|---------------------------------|---------------------------------|---------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
+| [2024 December](#2024-December) | [2024 November](#2024-November) | [2024 October](#2024-October)   | [2024 September](#2024-September) | [2024 August](#2024-August)       |[2024 July](#2024-July)            |
+| [2024 June](#2024-June)         | [2024 May](#2024-May)           | [2024 April](#2024-Apri)        | [2024 March](#2024-March)         | [2024 February](#2024-February)   | [2024 January](#2024-January)     | 
 
 ## 🔥Latest News
-### 🔥2024 December
-
+### 🔥2025 January
+- Jan 7 [Retrieval-Augmented Generation by Evidence Retroactivity in LLMs](https://arxiv.org/pdf/2501.05475)
 
 ## 🥇ICLR 2025
 - [SePer: Measure Retrieval Utility Through The Lens Of Semantic Perplexity Reduction](https://openreview.net/pdf?id=ixMBnOhFGd)
