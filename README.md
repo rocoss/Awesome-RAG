@@ -22,6 +22,9 @@
 
 ## 🔥Latest News
 ### 🔥2025 January
+- Jan 27 [Parametric Retrieval Augmented Generation](https://arxiv.org/pdf/2501.15915)
+- Jan 14 [ReARTeR: Retrieval-Augmented Reasoning with Trustworthy Process Rewarding](https://arxiv.org/pdf/2501.07861)
+- Jan 9 [ SUGAR: Leveraging Contextual Confidence for Smarter Retrieval](https://arxiv.org/pdf/2501.04899)
 - Jan 7 [Retrieval-Augmented Generation by Evidence Retroactivity in LLMs](https://arxiv.org/pdf/2501.05475)
 
 ## 🥇ICLR 2025
