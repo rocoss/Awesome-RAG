@@ -21,7 +21,22 @@
 | [2024 June](#2024-June)         | [2024 May](#2024-May)           | [2024 April](#2024-Apri)        | [2024 March](#2024-March)         | [2024 February](#2024-February)   | [2024 January](#2024-January)     | 
 
 ## 🔥Latest News
-### 🔥2025 January
+### 🔥2025 February
+- Feb 26 [Judge as A Judge: Improving the Evaluation of Retrieval-Augmented Generation through the Judge-Consistency of Large Language Models](https://arxiv.org/pdf/2502.18817)
+- Feb 25 [ RankCoT: Refining Knowledge for Retrieval-Augmented Generation through Ranking Chain-of-Thoughts](https://arxiv.org/pdf/2502.17888)
+- Feb 25 [Say Less, Mean More: Leveraging Pragmatics in Retrieval-Augmented  Generation](https://arxiv.org/pdf/2502.17839)
+- Feb 25 [DRAMA: Diverse Augmentation from Large Language Models to Smaller Dense Retrievers](https://arxiv.org/pdf/2502.18460)
+- Feb 20 [Mitigating Lost-in-Retrieval Problems in Retrieval Augmented Multi-Hop Question Answering](https://arxiv.org/pdf/2502.14245)
+- Feb 19 [Towards Context-Robust LLMs: A Gated Representation Fine-tuning Approach](https://arxiv.org/abs/2502.14100)
+- Feb 18 [RAG-Reward: Optimizing RAG with Reward Modeling and RLHF](https://arxiv.org/pdf/2501.13264)
+- Feb 17[Revisiting Robust RAG: Do We Still Need Complex Robust Training in the Era of Powerful LLMs?](https://www.arxiv.org/pdf/2502.11400)
+- Feb 16 [RoseRAG: Robust Retrieval-augmented Generation with Small-scale LLMs via Margin-aware Preference Optimization](https://arxiv.org/pdf/2502.10993)
+- Feb 14 [Post-training an LLM for RAG? Train on Self-Generated Demonstrations](https://arxiv.org/pdf/2502.10596)
+- Feb 3 [DeepRAG: Thinking to Retrieval Step by Step for Large Language Models](https://arxiv.org/pdf/2502.01142)
+  
+### 🍭2025 January
+- Jan 30 [Can we Retrieve Everything All at Once? ARM: An Alignment-Oriented LLM-based Retrieval Method](https://arxiv.org/pdf/2501.18539)
+- Jan 30 [RbFT: Robust Fine-tuning for Retrieval-Augmented Generation against Retrieval Defects](https://arxiv.org/pdf/2501.18365)
 - Jan 27 [Parametric Retrieval Augmented Generation](https://arxiv.org/pdf/2501.15915)
 - Jan 14 [ReARTeR: Retrieval-Augmented Reasoning with Trustworthy Process Rewarding](https://arxiv.org/pdf/2501.07861)
 - Jan 9 [ SUGAR: Leveraging Contextual Confidence for Smarter Retrieval](https://arxiv.org/pdf/2501.04899)
@@ -80,7 +95,6 @@
 - [ConflictBank: A Benchmark for Evaluating the Influence of Knowledge Conflicts in LLMs](https://arxiv.org/pdf/2408.12076)
 - [CRAG - Comprehensive RAG Benchmark](https://arxiv.org/pdf/2406.04744)
 
-## 🔥Latest News
 ### 🍭2024 December
 - Dec 11 [DADIO: Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation](https://arxiv.org/pdf/2412.08519)
 - Dec 3 [RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models](https://arxiv.org/pdf/2412.02830)
