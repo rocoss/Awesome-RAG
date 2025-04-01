@@ -31,7 +31,7 @@
 ### 🔥2025 March
 - Mar 27 [ReaRAG: Knowledge-guided Reasoning Enhances Factuality of Large Reasoning Models with Iterative Retrieval Augmented Generation](https://arxiv.org/pdf/2503.21729v1)
 - Mar 20 [Parameters vs. Context: Fine-Grained Control of Knowledge Reliance in Language Models](https://arxiv.org/abs/2503.15888)
-- Mar 11 [OpenRAG: Optimizing RAG End-to-End via In-Context Retrieval Learning]([arXiv:](https://arxiv.org/abs/2503.08398)
+- Mar 11 [OpenRAG: Optimizing RAG End-to-End via In-Context Retrieval Learning](https://arxiv.org/abs/2503.08398)
 
 ### 🍭2025 February
 - Feb 26 [Judge as A Judge: Improving the Evaluation of Retrieval-Augmented Generation through the Judge-Consistency of Large Language Models](https://arxiv.org/pdf/2502.18817)
