@@ -29,6 +29,9 @@
 
 ## 🔥Latest News
 ### 🔥2025 March
+- Mar 31 [Better wit than wealth: Dynamic Parametric Retrieval Augmented Generation for Test-time Knowledge Enhancement](https://arxiv.org/pdf/2503.23895)
+- Mar 30 [RARE: Retrieval-Augmented Reasoning Modeling](https://arxiv.org/pdf/2503.23513)
+- Mar 28 [Preference-based Learning with Retrieval Augmented Generation for Conversational Question Answering](https://arxiv.org/pdf/2503.22303)
 - Mar 27 [ReaRAG: Knowledge-guided Reasoning Enhances Factuality of Large Reasoning Models with Iterative Retrieval Augmented Generation](https://arxiv.org/pdf/2503.21729v1)
 - Mar 20 [Parameters vs. Context: Fine-Grained Control of Knowledge Reliance in Language Models](https://arxiv.org/abs/2503.15888)
 - Mar 11 [OpenRAG: Optimizing RAG End-to-End via In-Context Retrieval Learning](https://arxiv.org/abs/2503.08398)
