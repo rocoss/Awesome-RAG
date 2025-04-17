@@ -16,9 +16,9 @@
 
 
 <a name="2025"></a>
-|                                 |                                 |                                 | 
-|---------------------------------|---------------------------------|---------------------------------|
-| [2025 March](#2025-March)| [2025 February](#2025-February)  | [2025 January](#2025-January)   |
+|                                 |                                 |                                 |                                 | 
+|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
+| [2025 April](#2025-April)       | [2025 March](#2025-March)        | [2025 February](#2025-February)  | [2025 January](#2025-January)   |
 
 
 <a name="2024"></a>
@@ -28,21 +28,34 @@
 | [2024 June](#2024-June)         | [2024 May](#2024-May)           | [2024 April](#2024-Apri)        | [2024 March](#2024-March)         | [2024 February](#2024-February)   | [2024 January](#2024-January)     | 
 
 ## 🔥Latest News
-### 🔥2025 March
+### 🔥2025 April
+- Apri 15 [Preference-based Learning with Retrieval Augmented Generation for Conversational Question Answering](https://arxiv.org/pdf/2503.22303)
+- Apri 10 [Plan-and-Refine: Diverse and Comprehensive Retrieval-Augmented Generation](https://arxiv.org/pdf/2504.07794)
+- Apri 7 [Collab-RAG: Boosting Retrieval-Augmented Generation for Complex Question Answering via White-Box and Black-Box LLM Collaboration](https://arxiv.org/pdf/2504.04915)
+- Apri 4 [Efficient Dynamic Clustering-Based Document Compression for  Retrieval-Augmented-Generation](https://arxiv.org/pdf/2504.03165)
+- Apri 3 [HyperRAG: Enhancing Quality-Efficiency Tradeoffs in Retrieval-Augmented Generation with Reranker KV-Cache Reuse](https://arxiv.org/pdf/2504.02921)
+- Apri 3 [Scaling Test-Time Inference with Policy-Optimized, Dynamic Retrieval-Augmented Generation via KV Caching and Decoding](https://arxiv.org/pdf/2504.01281)
+- Apri 1 [CoRanking: Collaborative Ranking with Small and Large Ranking Agents](https://arxiv.org/pdf/2503.23427)
+
+### 🍭2025 March
+- Mar 31 [Insight-RAG: Enhancing LLMs with Insight-Driven Augmentation](https://arxiv.org/pdf/2504.00187)
+- Mar 31 [UltraRAG: A Modular and Automated Toolkit for Adaptive Retrieval-Augmented Generation](https://arxiv.org/pdf/2504.08761)
 - Mar 31 [Better wit than wealth: Dynamic Parametric Retrieval Augmented Generation for Test-time Knowledge Enhancement](https://arxiv.org/pdf/2503.23895)
 - Mar 30 [RARE: Retrieval-Augmented Reasoning Modeling](https://arxiv.org/pdf/2503.23513)
 - Mar 28 [Preference-based Learning with Retrieval Augmented Generation for Conversational Question Answering](https://arxiv.org/pdf/2503.22303)
 - Mar 27 [ReaRAG: Knowledge-guided Reasoning Enhances Factuality of Large Reasoning Models with Iterative Retrieval Augmented Generation](https://arxiv.org/pdf/2503.21729v1)
+- Mar 23 [ExpertRAG: Efficient RAG with Mixture of Experts -- Optimizing Context Retrieval for Adaptive LLM Responses](https://arxiv.org/pdf/2504.08744)
 - Mar 20 [Parameters vs. Context: Fine-Grained Control of Knowledge Reliance in Language Models](https://arxiv.org/abs/2503.15888)
 - Mar 11 [OpenRAG: Optimizing RAG End-to-End via In-Context Retrieval Learning](https://arxiv.org/abs/2503.08398)
 
 ### 🍭2025 February
 - Feb 26 [Judge as A Judge: Improving the Evaluation of Retrieval-Augmented Generation through the Judge-Consistency of Large Language Models](https://arxiv.org/pdf/2502.18817)
-- Feb 25 [ RankCoT: Refining Knowledge for Retrieval-Augmented Generation through Ranking Chain-of-Thoughts](https://arxiv.org/pdf/2502.17888)
+- Feb 25 [RankCoT: Refining Knowledge for Retrieval-Augmented Generation through Ranking Chain-of-Thoughts](https://arxiv.org/pdf/2502.17888)
 - Feb 25 [Say Less, Mean More: Leveraging Pragmatics in Retrieval-Augmented  Generation](https://arxiv.org/pdf/2502.17839)
 - Feb 25 [DRAMA: Diverse Augmentation from Large Language Models to Smaller Dense Retrievers](https://arxiv.org/pdf/2502.18460)
 - Feb 20 [Mitigating Lost-in-Retrieval Problems in Retrieval Augmented Multi-Hop Question Answering](https://arxiv.org/pdf/2502.14245)
 - Feb 19 [Towards Context-Robust LLMs: A Gated Representation Fine-tuning Approach](https://arxiv.org/abs/2502.14100)
+- Feb 19 [Towards Adaptive Memory-Based Optimization for Enhanced Retrieval-Augmented Generation](https://arxiv.org/pdf/2504.05312)
 - Feb 18 [RAG-Reward: Optimizing RAG with Reward Modeling and RLHF](https://arxiv.org/pdf/2501.13264)
 - Feb 17 [Revisiting Robust RAG: Do We Still Need Complex Robust Training in the Era of Powerful LLMs?](https://www.arxiv.org/pdf/2502.11400)
 - Feb 16 [RoseRAG: Robust Retrieval-augmented Generation with Small-scale LLMs via Margin-aware Preference Optimization](https://arxiv.org/pdf/2502.10993)
@@ -56,6 +69,7 @@
 - Jan 14 [ReARTeR: Retrieval-Augmented Reasoning with Trustworthy Process Rewarding](https://arxiv.org/pdf/2501.07861)
 - Jan 9 [SUGAR: Leveraging Contextual Confidence for Smarter Retrieval](https://arxiv.org/pdf/2501.04899)
 - Jan 7 [Retrieval-Augmented Generation by Evidence Retroactivity in LLMs](https://arxiv.org/pdf/2501.05475)
+- Jan 2 [Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks](https://arxiv.org/pdf/2407.09893)
 
 ## 🥇ICLR 2025
 - [SePer: Measure Retrieval Utility Through The Lens Of Semantic Perplexity Reduction](https://openreview.net/pdf?id=ixMBnOhFGd)
@@ -111,6 +125,7 @@
 - [CRAG - Comprehensive RAG Benchmark](https://arxiv.org/pdf/2406.04744)
 
 ### 🍭2024 December
+- Dec 19 [PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization](https://arxiv.org/pdf/2412.14510)
 - Dec 11 [DADIO: Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation](https://arxiv.org/pdf/2412.08519)
 - Dec 3 [RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models](https://arxiv.org/pdf/2412.02830)
  
