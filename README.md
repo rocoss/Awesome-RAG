@@ -29,8 +29,17 @@
 
 ## 🔥Latest News
 ### 🔥2025 April
+- Apri 25 [DualRAG: A Dual-Process Approach to Integrate Reasoning and Retrieval for Multi-Hop Question Answering](https://arxiv.org/pdf/2504.18243)
+- Apri 23 [Credible plan-driven RAG method for Multi-hop Question Answering](https://arxiv.org/pdf/2504.16787)
+- Apri 22 [Exploiting Contextual Knowledge in LLMs through V-usable Information based Layer Enhancement](https://arxiv.org/pdf/2504.15630)
+- Apri 21 [AlignRAG: An Adaptable Framework for Resolving Misalignments in Retrieval-Aware Reasoning of RAG](https://arxiv.org/pdf/2504.14858)
+- Apri 17 [DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments](https://arxiv.org/pdf/2504.03160)
+- Apri 17 [CDF-RAG: Causal Dynamic Feedback for Adaptive Retrieval-Augmented Generation](https://arxiv.org/pdf/2504.12560)
+- Apri 17 [Accommodate Knowledge Conflicts in Retrieval-augmented LLMs: Towards Reliable Response Generation in the Wild](https://arxiv.org/pdf/2504.12982)
+- Apri 17 [ACoRN: Noise-Robust Abstractive Compression in Retrieval-Augmented Language Models](https://arxiv.org/pdf/2504.12673)
 - Apri 15 [Preference-based Learning with Retrieval Augmented Generation for Conversational Question Answering](https://arxiv.org/pdf/2503.22303)
 - Apri 10 [Plan-and-Refine: Diverse and Comprehensive Retrieval-Augmented Generation](https://arxiv.org/pdf/2504.07794)
+- Apri 8 [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/pdf/2503.09516)
 - Apri 7 [Collab-RAG: Boosting Retrieval-Augmented Generation for Complex Question Answering via White-Box and Black-Box LLM Collaboration](https://arxiv.org/pdf/2504.04915)
 - Apri 4 [Efficient Dynamic Clustering-Based Document Compression for  Retrieval-Augmented-Generation](https://arxiv.org/pdf/2504.03165)
 - Apri 3 [HyperRAG: Enhancing Quality-Efficiency Tradeoffs in Retrieval-Augmented Generation with Reranker KV-Cache Reuse](https://arxiv.org/pdf/2504.02921)
@@ -54,6 +63,7 @@
 - Feb 25 [Say Less, Mean More: Leveraging Pragmatics in Retrieval-Augmented  Generation](https://arxiv.org/pdf/2502.17839)
 - Feb 25 [DRAMA: Diverse Augmentation from Large Language Models to Smaller Dense Retrievers](https://arxiv.org/pdf/2502.18460)
 - Feb 20 [Mitigating Lost-in-Retrieval Problems in Retrieval Augmented Multi-Hop Question Answering](https://arxiv.org/pdf/2502.14245)
+- Feb 19 [RAG-Gym: Optimizing Reasoning and Search Agents with Process Supervision](https://arxiv.org/pdf/2502.13957)
 - Feb 19 [Towards Context-Robust LLMs: A Gated Representation Fine-tuning Approach](https://arxiv.org/abs/2502.14100)
 - Feb 19 [Towards Adaptive Memory-Based Optimization for Enhanced Retrieval-Augmented Generation](https://arxiv.org/pdf/2504.05312)
 - Feb 18 [RAG-Reward: Optimizing RAG with Reward Modeling and RLHF](https://arxiv.org/pdf/2501.13264)
