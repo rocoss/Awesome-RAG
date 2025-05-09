@@ -29,7 +29,7 @@
 | [2024 June](#2024-June)         | [2024 May](#2024-May)           | [2024 April](#2024-Apri)        | [2024 March](#2024-March)         | [2024 February](#2024-February)   | [2024 January](#2024-January)     | 
 
 ## 🔥Latest News
-## 🥇ICLR 2025
+## 🥇ICML 2025
 - [From RAG to Memory: Non-Parametric Continual Learning for Large Language Models](https://arxiv.org/pdf/2502.14802)
 - [LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs -- No Silver Bullet for LC or RAG Routing](https://arxiv.org/pdf/2502.09977)
 - [RAGGED: Towards Informed Design of Retrieval Augmented Generation Systems](https://arxiv.org/pdf/2403.09040)
