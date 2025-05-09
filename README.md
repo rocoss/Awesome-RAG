@@ -5,6 +5,7 @@
 
 
 ## 📕Overview
+- [ICML 2025](#ICML-2025)
 - [ICLR 2025](#ICLR-2025)
 - [NIPS 2024](#NIPS-2024)
 - [ACL 2024](#ACL-2024)
@@ -28,6 +29,18 @@
 | [2024 June](#2024-June)         | [2024 May](#2024-May)           | [2024 April](#2024-Apri)        | [2024 March](#2024-March)         | [2024 February](#2024-February)   | [2024 January](#2024-January)     | 
 
 ## 🔥Latest News
+## 🥇ICLR 2025
+- [From RAG to Memory: Non-Parametric Continual Learning for Large Language Models](https://arxiv.org/pdf/2502.14802)
+- [LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs -- No Silver Bullet for LC or RAG Routing](https://arxiv.org/pdf/2502.09977)
+- [RAGGED: Towards Informed Design of Retrieval Augmented Generation Systems](https://arxiv.org/pdf/2403.09040)
+- [DocKS-RAG: Optimizing Document-Level Relation Extraction through LLM-Enhanced Hybrid Prompt Tuning (No link yet)](https://github.com/liunian-Jay/Awesome-RAG)
+- [Hierarchical Planning for Complex Tasks with Knowledge Graph-RAG and Symbolic Verification](https://arxiv.org/pdf/2504.04578)
+- [On the Vulnerability of Applying Retrieval-Augmented Generation within Knowledge-Intensive Application Domains](https://arxiv.org/pdf/2409.17275)
+- [C-3PO: Compact Plug-and-Play Proxy Optimization to Achieve Human-like Retrieval-Augmented Generation](https://arxiv.org/pdf/2502.06205)
+- [Long-Context Inference with Retrieval-Augmented Speculative Decoding](https://arxiv.org/pdf/2502.20330)
+- [Position: Retrieval-augmented systems are currently dangerous medical communicators](https://arxiv.org/pdf/2502.14898v1)
+
+  
 ### 🔥2025 April
 - Apri 25 [DualRAG: A Dual-Process Approach to Integrate Reasoning and Retrieval for Multi-Hop Question Answering](https://arxiv.org/pdf/2504.18243)
 - Apri 23 [Credible plan-driven RAG method for Multi-hop Question Answering](https://arxiv.org/pdf/2504.16787)
