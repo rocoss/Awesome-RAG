@@ -309,7 +309,3 @@
 - [RECOMP: Improving Retrieval-Augmented LMs with Context Compression and Selective Augmentation](https://openreview.net/pdf?id=mlJLVigNHp)
 - [Retrieval meets Long Context Large Language Models](https://arxiv.org/pdf/2310.03025)
 - [SuRe: Summarizing Retrievals using Answer Candidates for Open-domain QA of LLMs](https://arxiv.org/pdf/2404.13081)
-
-
-
-Welcome to communicate with us by email at jiangyijcx@163.com
