@@ -1,7 +1,7 @@
-# Awesome-RAG
-🤖 List of recent developments in Retrieval-Augmented Generation (RAG) for large language models (LLM).  
-🤗 We welcome and encourage researchers to submit pull requests to update information in their papers!  
-💡 This repo is still being improved and updated, and a general framework is being built, so stay tuned!
+# Awesome-RAG-RU
+🤖 Список последних разработок в области генерации с расширенным поиском (RAG) для больших языковых моделей (LM).  
+🤗 Приветствую и поощряю всех исследователей отправлять запросы на обновление информации в своих статьях!  
+💡 Это репозиторий все еще совершенствуется и обновляется, а также создается общая платформа, так что следите за обновлениями!
 
 
 ## 📕Overview
