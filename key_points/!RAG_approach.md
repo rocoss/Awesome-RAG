@@ -31,8 +31,8 @@
 
 
 
-# 5. [Evaluating the Performance of RAG Methods for Conversational AI in the
-Airport Domain](https://aclanthology.org/2025.naacl-long.61.pdf)
+# 5. [Evaluating the Performance of RAG Methods for Conversational AI in the Airport Domain](https://aclanthology.org/2025.naacl-long.61.pdf)
+
 типичный базовый - неточный и слабопротестированный подход
 
 ![Method on Ambiguous question dataset](https://github.com/rocoss/Awesome-RAG/blob/main/images/RAG/5.png)
